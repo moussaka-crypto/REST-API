@@ -30,3 +30,5 @@ mongoose.connect(MONGO_URL);
 mongoose.connection.on('error', (err : Error) => console.log(err));
 
 app.use('/', router());
+
+//https://www.ibm.com/topics/rest-apis
