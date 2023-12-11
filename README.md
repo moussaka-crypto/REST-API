@@ -1,4 +1,4 @@
 # REST-API
-A REST API project with the goal of learning TypeScript and REST APIs.
+### A project with the goal of learning TypeScript and REST APIs.
 
-*It was a nice week.*
+### Проект с цел изучаване на TypeScript и REST API. <br>
